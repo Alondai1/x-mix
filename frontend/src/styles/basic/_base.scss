@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding-top: rem(60);
+}
+
+a,
+button {
+    margin-left: 10px;
+    cursor: pointer;
+    padding: 5px;
+}
+
+.reset-margin {
+    margin: 0;
+}
+
+.router-link:active {
+    background-color: $color-turquoise;
+}

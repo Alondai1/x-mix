@@ -1,0 +1,21 @@
+//Reset
+@import './basic/reset';
+
+// Setup
+@import './setup/functions';
+@import './setup/vars';
+@import './setup/mixins';
+// Basic
+@import './basic/base';
+@import './basic/fonts';
+@import './basic/layout';
+@import './basic/helpers';
+
+//Cmps
+
+@import './cmps/login';
+@import './cmps/gamePage';
+@import './cmps/userPage';
+@import './cmps/homePage';
+@import './cmps/stats';
+@import './iphone';

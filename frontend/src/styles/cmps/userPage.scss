@@ -1,0 +1,36 @@
+.user-page {
+  a {
+    color: black;
+  }
+  height: 100%;
+  padding: 20px 0;
+  .logo {
+    height: 30px;
+    position: absolute;
+    top: 20px;
+    left: 22px;
+  }
+
+  .stats-btn {
+    text-align: center;
+    margin-top: 44px;
+  }
+
+  .play-icons {
+    margin-top: 100px;
+
+    * {
+      margin: 0 10px;
+    }
+
+    div .play-icons-text {
+      margin-bottom: 20px;
+    }
+  }
+
+  .logout-btn {
+    position: absolute;
+    top: 20px;
+    right: 22px;
+  }
+}

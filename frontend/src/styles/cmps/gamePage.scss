@@ -1,0 +1,89 @@
+.game-page {
+  .MuiSnackbar-root {
+    position: fixed;
+    top: auto;
+    left: auto;
+    right: auto;
+    bottom: 130px;
+  }
+
+  .MuiSnackbarContent-root {
+    background-color: rgba(70, 70, 70, 0.767);
+  }
+
+  height: 100%;
+  .game-container {
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    padding-top: 48px;
+    align-items: center;
+
+    table {
+      background-color: #ffffff45;
+    }
+
+    .players {
+      margin-bottom: 30px;
+
+      svg {
+        margin: 0 20px;
+      }
+    }
+
+    .cell {
+      width: 40px;
+      height: 40px;
+      cursor: pointer;
+      border: 1px solid grey;
+      text-align: center;
+      vertical-align: middle;
+    }
+
+    .marked {
+      background-color: rgba(0, 128, 0, 0.37);
+    }
+  }
+}
+
+.multi-page {
+  // padding-top: 40px;
+
+  .back-btn {
+    align-self: flex-start;
+  }
+  .game-container {
+    padding-top: 10px;
+  }
+  .players {
+    margin-bottom: 30px;
+    margin-top: 22px;
+
+    .player {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin: 0 15px;
+      svg {
+        margin: 0 20px;
+      }
+    }
+  }
+  .game-container {
+    .back-btn {
+      align-self: flex-start;
+    }
+  }
+}
+
+.player-list {
+  margin-top: 30px;
+  .player-item {
+    border: 1px solid black;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    cursor: pointer;
+  }
+}
