@@ -1,0 +1,339 @@
+Mon, 13 Jan 2020 11:16:58 GMT - Info - Server is running on port: 3000
+Mon, 13 Jan 2020 11:17:11 GMT - Info - Server is running on port: 3000
+Mon, 13 Jan 2020 11:21:30 GMT - Info - Server is running on port: 3000
+Mon, 13 Jan 2020 11:21:41 GMT - Info - Server is running on port: 3000
+Mon, 13 Jan 2020 11:22:17 GMT - Info - Server is running on port: 3000
+Mon, 13 Jan 2020 11:22:35 GMT - Info - Server is running on port: 3000
+Mon, 13 Jan 2020 11:22:46 GMT - Info - Server is running on port: 3000
+Tue, 14 Jan 2020 07:13:19 GMT - Info - Server is running on port: 3030
+Tue, 14 Jan 2020 07:13:39 GMT - Error - Cannot get reviews
+Tue, 14 Jan 2020 07:15:23 GMT - Error - Cannot get reviews
+Tue, 14 Jan 2020 07:15:46 GMT - Error - Cannot get reviews
+Tue, 14 Jan 2020 07:16:05 GMT - Info - Server is running on port: 3030
+Tue, 14 Jan 2020 07:16:09 GMT - Error - Cannot get reviews
+Tue, 14 Jan 2020 07:16:29 GMT - Error - Cannot get reviews
+Tue, 14 Jan 2020 07:18:13 GMT - Error - Cannot get reviews
+Tue, 14 Jan 2020 07:32:53 GMT - Error - Cannot get reviews
+Tue, 14 Jan 2020 07:33:17 GMT - Debug - auth.service - login with email: v
+Tue, 14 Jan 2020 07:33:18 GMT - Error - Cannot get reviews
+Tue, 14 Jan 2020 07:33:23 GMT - Error - Cannot get reviews
+Tue, 14 Jan 2020 07:35:26 GMT - Debug - v, v, v
+Tue, 14 Jan 2020 07:35:26 GMT - Debug - auth.service - signup with email: v, username: v
+Tue, 14 Jan 2020 07:35:27 GMT - Debug - auth.route - new account created: {"email":"v","password":"$2b$10$FtA/XOVg6Huj8PYhLHraQuaNG0lxg9gt2S8chBYtfkqPldrlu7DbG","username":"v","_id":"5e1d6f3f30820335201a26af"}
+Tue, 14 Jan 2020 07:35:27 GMT - Debug - auth.service - login with email: v
+Tue, 14 Jan 2020 07:35:41 GMT - Debug - auth.service - login with email: v
+Tue, 14 Jan 2020 07:35:49 GMT - Error - Cannot get reviews
+Tue, 14 Jan 2020 07:37:19 GMT - Info - Server is running on port: 3030
+Tue, 14 Jan 2020 07:37:25 GMT - Error - Cannot get reviews
+Tue, 14 Jan 2020 07:37:28 GMT - Error - Cannot get reviews
+Tue, 14 Jan 2020 07:38:43 GMT - Error - Cannot get reviews
+Tue, 14 Jan 2020 07:39:10 GMT - Error - Cannot get reviews
+Tue, 14 Jan 2020 07:39:50 GMT - Info - Server is running on port: 3030
+Tue, 14 Jan 2020 07:41:44 GMT - Info - Server is running on port: 3030
+Tue, 14 Jan 2020 07:42:07 GMT - Debug - auth.service - login with email: v
+Tue, 14 Jan 2020 07:47:41 GMT - Info - Server is running on port: 3030
+Tue, 14 Jan 2020 07:48:09 GMT - Debug - auth.service - login with email: v
+Tue, 14 Jan 2020 07:52:16 GMT - Info - Server is running on port: 3030
+Tue, 14 Jan 2020 07:56:09 GMT - Debug - auth.service - login with email: v
+Tue, 14 Jan 2020 08:07:18 GMT - Debug - auth.service - login with email: v
+Tue, 14 Jan 2020 08:11:13 GMT - Debug - auth.service - login with email: v
+Tue, 14 Jan 2020 08:26:02 GMT - Info - Server is running on port: 3030
+Tue, 14 Jan 2020 08:26:39 GMT - Info - Server is running on port: 3030
+Tue, 14 Jan 2020 11:47:05 GMT - Info - Server is running on port: 3030
+Tue, 14 Jan 2020 11:47:27 GMT - Info - Server is running on port: 3030
+Tue, 14 Jan 2020 11:49:50 GMT - Info - Server is running on port: 3030
+Tue, 14 Jan 2020 11:53:59 GMT - Debug - canov19, CaNov19, 1
+Tue, 14 Jan 2020 11:53:59 GMT - Debug - auth.service - signup with email: canov19, username: CaNov19
+Tue, 14 Jan 2020 11:53:59 GMT - Debug - auth.route - new account created: {"email":"canov19","password":"$2b$10$0p9ZIPwVpcFILivaKnAT8OxQF2x2VsueXLzBun6uUc/zowTZJpT2S","username":"CaNov19","_id":"5e1dabd709367a5de4707923"}
+Tue, 14 Jan 2020 11:53:59 GMT - Debug - auth.service - login with email: canov19
+Tue, 14 Jan 2020 12:12:16 GMT - Debug - auth.service - login with email: v
+Thu, 30 Jan 2020 17:40:31 GMT - Info - Server is running on port: 3030
+Thu, 30 Jan 2020 17:40:56 GMT - Debug - alondai1@gmail.com, 1, 1
+Thu, 30 Jan 2020 17:40:56 GMT - Debug - auth.service - signup with email: alondai1@gmail.com, username: 1
+Thu, 30 Jan 2020 17:40:56 GMT - Debug - auth.route - new account created: {"email":"alondai1@gmail.com","password":"$2b$10$bwENTQ5ncHD2LfcOP0iB5ecBxIYZVc6WsZ9xjynzuczE9RsYkuvhW","username":"1","_id":"5e3315286e57cb07680317ea"}
+Thu, 30 Jan 2020 17:40:56 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Thu, 30 Jan 2020 17:51:45 GMT - Debug - 2, 2, 2
+Thu, 30 Jan 2020 17:51:45 GMT - Debug - auth.service - signup with email: 2, username: 2
+Thu, 30 Jan 2020 17:51:45 GMT - Debug - auth.route - new account created: {"email":"2","password":"$2b$10$mWbtAQHKUhpKwSTlsrsshOX0M4x.qBabVCcd4zskcveMXbyCjEuW6","username":"2","_id":"5e3317b16e57cb07680317ed"}
+Thu, 30 Jan 2020 17:51:45 GMT - Debug - auth.service - login with email: 2
+Tue, 04 Feb 2020 09:34:35 GMT - Info - Server is running on port: 3030
+Tue, 04 Feb 2020 09:38:23 GMT - Debug - alondai1@gmail.com, 1, 1
+Tue, 04 Feb 2020 09:38:23 GMT - Debug - auth.service - signup with email: alondai1@gmail.com, username: 1
+Tue, 04 Feb 2020 09:38:23 GMT - Debug - auth.route - new account created: {"email":"alondai1@gmail.com","password":"$2b$10$jhrhWcT0Rfho6qzZvP7TA.1S72DoT.AHdej9KzgPERLfEoTwDqLQi","username":"1","_id":"5e393b8f520a5c023025fd4b"}
+Tue, 04 Feb 2020 09:38:23 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Tue, 04 Feb 2020 09:40:37 GMT - Info - Server is running on port: 3030
+Tue, 04 Feb 2020 10:07:39 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Tue, 04 Feb 2020 10:07:44 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Tue, 04 Feb 2020 10:08:41 GMT - Debug - auth.service - login with email: al45il.com
+Tue, 04 Feb 2020 10:08:50 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Tue, 04 Feb 2020 10:36:44 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Tue, 04 Feb 2020 10:40:50 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Tue, 04 Feb 2020 10:40:53 GMT - Debug - auth.service - login with email: 1
+Tue, 04 Feb 2020 10:45:33 GMT - Debug - auth.service - login with email: a
+Tue, 04 Feb 2020 10:46:09 GMT - Debug - auth.service - login with email: a111
+Tue, 04 Feb 2020 10:47:33 GMT - Debug - auth.service - login with email: 6
+Tue, 04 Feb 2020 10:48:22 GMT - Debug - auth.service - login with email: 1
+Tue, 04 Feb 2020 13:44:56 GMT - Debug - auth.service - login with email: a
+Tue, 04 Feb 2020 14:29:31 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Tue, 04 Feb 2020 14:33:11 GMT - Debug - auth.service - login with email: 12
+Tue, 04 Feb 2020 14:33:49 GMT - Debug - auth.service - login with email: ss
+Tue, 04 Feb 2020 14:34:41 GMT - Debug - auth.service - login with email: 12
+Tue, 04 Feb 2020 14:35:19 GMT - Debug - auth.service - login with email: df
+Tue, 04 Feb 2020 14:35:31 GMT - Debug - auth.service - login with email: f
+Tue, 04 Feb 2020 14:37:17 GMT - Debug - auth.service - login with email: 1
+Tue, 04 Feb 2020 14:37:34 GMT - Debug - auth.service - login with email: 1
+Tue, 04 Feb 2020 14:39:24 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Tue, 04 Feb 2020 14:43:14 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Tue, 04 Feb 2020 14:43:28 GMT - Debug - auth.service - login with email: 22
+Tue, 04 Feb 2020 14:44:28 GMT - Debug - auth.service - login with email: q
+Tue, 04 Feb 2020 14:48:33 GMT - Debug - auth.service - login with email: 3434
+Tue, 04 Feb 2020 14:52:25 GMT - Debug - auth.service - login with email: s
+Tue, 04 Feb 2020 14:56:25 GMT - Debug - auth.service - login with email: 1
+Tue, 04 Feb 2020 15:27:59 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Tue, 04 Feb 2020 15:30:34 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Tue, 04 Feb 2020 15:33:08 GMT - Debug - auth.service - login with email: ddd
+Tue, 04 Feb 2020 15:37:33 GMT - Debug - auth.service - login with email: f
+Tue, 04 Feb 2020 15:38:35 GMT - Debug - auth.service - login with email: sdf
+Tue, 04 Feb 2020 15:39:09 GMT - Debug - auth.service - login with email: sd
+Tue, 04 Feb 2020 15:39:20 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Tue, 04 Feb 2020 15:40:07 GMT - Debug - auth.service - login with email: a
+Tue, 04 Feb 2020 15:40:39 GMT - Debug - auth.service - login with email: a
+Tue, 04 Feb 2020 15:40:45 GMT - Debug - auth.service - login with email: a
+Tue, 04 Feb 2020 15:40:52 GMT - Debug - auth.service - login with email: s
+Tue, 04 Feb 2020 15:40:59 GMT - Debug - auth.service - login with email: s
+Tue, 04 Feb 2020 16:46:19 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Tue, 04 Feb 2020 17:47:37 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Tue, 04 Feb 2020 17:53:39 GMT - Info - Server is running on port: 3030
+Wed, 05 Feb 2020 11:44:29 GMT - Info - Server is running on port: 3030
+Wed, 05 Feb 2020 11:44:37 GMT - Debug - auth.service - login with email: a
+Wed, 05 Feb 2020 11:44:43 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 11:54:13 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 12:12:40 GMT - Debug - auth.service - login with email: s
+Wed, 05 Feb 2020 12:14:05 GMT - Debug - auth.service - login with email: dsdd
+Wed, 05 Feb 2020 12:14:09 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 12:17:57 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 12:20:13 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 12:52:26 GMT - Debug - avivday@gmail.com, undefined, 1
+Wed, 05 Feb 2020 12:52:26 GMT - Debug - auth.service - signup with email: avivday@gmail.com, username: undefined
+Wed, 05 Feb 2020 12:52:26 GMT - Error - [SIGNUP] email, username and password are required!
+Wed, 05 Feb 2020 12:55:27 GMT - Debug - avivday@gmail.com, 2, 1
+Wed, 05 Feb 2020 12:55:27 GMT - Debug - auth.service - signup with email: avivday@gmail.com, username: 2
+Wed, 05 Feb 2020 12:55:27 GMT - Debug - auth.route - new account created: {"email":"avivday@gmail.com","password":"$2b$10$qnw6qayq3vsSQZxKwy4A2eMggf1.b.LxhyUphWZYjNjdKU0AHTDZy","username":"2","_id":"5e3abb3f07d12a0f8c322fe1"}
+Wed, 05 Feb 2020 12:55:27 GMT - Debug - auth.service - login with email: avivday@gmail.com
+Wed, 05 Feb 2020 13:00:29 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 13:03:08 GMT - Debug - sdfsd@fgdf, 3, 1
+Wed, 05 Feb 2020 13:03:08 GMT - Debug - auth.service - signup with email: sdfsd@fgdf, username: 3
+Wed, 05 Feb 2020 13:03:08 GMT - Debug - auth.route - new account created: {"email":"sdfsd@fgdf","password":"$2b$10$ZsB77NiO.XFyue05novr8.ctSZ5iT9zJh4IUqW.Xv3ZbyhUIg42WG","username":"3","_id":"5e3abd0c07d12a0f8c322fe2"}
+Wed, 05 Feb 2020 13:03:08 GMT - Debug - auth.service - login with email: sdfsd@fgdf
+Wed, 05 Feb 2020 13:08:38 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 13:13:09 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 13:17:31 GMT - Info - Server is running on port: 3030
+Wed, 05 Feb 2020 13:18:27 GMT - Info - Server is running on port: 3030
+Wed, 05 Feb 2020 13:18:51 GMT - Info - Server is running on port: 3030
+Wed, 05 Feb 2020 13:19:06 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 13:19:59 GMT - Debug - sdfsd@fg222df, 1, 1
+Wed, 05 Feb 2020 13:19:59 GMT - Debug - auth.service - signup with email: sdfsd@fg222df, username: 1
+Wed, 05 Feb 2020 13:19:59 GMT - Debug - auth.route - new account created: {"email":"sdfsd@fg222df","password":"$2b$10$LnUj.RhFvlLDuKOKcrvN7.2cZL6KdBkXn/yjSMHcBbHJ/I8/MCvr2","username":"1","lastLogin":1580908799731,"_id":"5e3ac0ff57cf9904440c02de"}
+Wed, 05 Feb 2020 13:19:59 GMT - Debug - auth.service - login with email: sdfsd@fg222df
+Wed, 05 Feb 2020 13:23:07 GMT - Info - Server is running on port: 3030
+Wed, 05 Feb 2020 13:23:25 GMT - Info - Server is running on port: 3030
+Wed, 05 Feb 2020 13:23:42 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 13:23:57 GMT - Debug - auth.service - login with email: avivday@gmail.com
+Wed, 05 Feb 2020 13:24:06 GMT - Debug - a@sf, 1, 1
+Wed, 05 Feb 2020 13:24:06 GMT - Debug - auth.service - signup with email: a@sf, username: 1
+Wed, 05 Feb 2020 13:24:06 GMT - Debug - auth.route - new account created: {"email":"a@sf","password":"$2b$10$NYcNRvo3uKOYrdWnZQcrUe4fQC/cRr0RCws8lRspCR74XkESyF8F2","username":"1","lastLogin":1580909046452,"_id":"5e3ac1f6e91a574130f00a2c"}
+Wed, 05 Feb 2020 13:24:06 GMT - Debug - auth.service - login with email: a@sf
+Wed, 05 Feb 2020 13:24:50 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 13:34:06 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 13:35:53 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 13:38:34 GMT - Info - Server is running on port: 3030
+Wed, 05 Feb 2020 13:39:05 GMT - Info - Server is running on port: 3030
+Wed, 05 Feb 2020 13:39:15 GMT - Info - Server is running on port: 3030
+Wed, 05 Feb 2020 13:43:23 GMT - Info - Server is running on port: 3030
+Wed, 05 Feb 2020 13:44:57 GMT - Info - Server is running on port: 3030
+Wed, 05 Feb 2020 13:45:40 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 13:45:45 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 13:45:52 GMT - Debug - auth.service - login with email: avivday@gmail.com
+Wed, 05 Feb 2020 13:46:03 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 13:46:28 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 13:47:02 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 14:34:20 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 14:35:15 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 15:12:24 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 15:15:10 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 15:21:27 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 15:25:39 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 15:28:32 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 16:37:56 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 16:38:04 GMT - Debug - auth.service - login with email: avivday@gmail.com
+Wed, 05 Feb 2020 16:38:11 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 16:45:32 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 16:59:05 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 17:01:15 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 17:29:53 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 17:54:52 GMT - Debug - auth.service - login with email: avivday@gmail.com
+Wed, 05 Feb 2020 17:54:59 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 18:00:35 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 18:01:34 GMT - Debug - auth.service - login with email: avivday@gmail.com
+Wed, 05 Feb 2020 18:03:00 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 18:11:47 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Wed, 05 Feb 2020 18:14:21 GMT - Info - Server is running on port: 3030
+Thu, 06 Feb 2020 11:19:32 GMT - Info - Server is running on port: 3030
+Thu, 06 Feb 2020 11:21:05 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Thu, 06 Feb 2020 12:12:18 GMT - Debug - auth.service - login with email: avivday@gmail.com
+Thu, 06 Feb 2020 12:12:28 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Thu, 06 Feb 2020 13:46:59 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Thu, 06 Feb 2020 14:29:14 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Thu, 06 Feb 2020 16:11:30 GMT - Info - Server is running on port: 3030
+Thu, 06 Feb 2020 18:48:57 GMT - Info - Server is running on port: 3030
+Thu, 06 Feb 2020 18:55:07 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Thu, 06 Feb 2020 18:58:25 GMT - Debug - auth.service - login with email: avivday@gmail.com
+Thu, 06 Feb 2020 19:26:20 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Thu, 06 Feb 2020 20:03:46 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Thu, 06 Feb 2020 20:19:55 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Thu, 06 Feb 2020 20:22:29 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Thu, 06 Feb 2020 20:26:54 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Thu, 06 Feb 2020 20:38:04 GMT - Info - Server is running on port: 3030
+Thu, 06 Feb 2020 20:43:28 GMT - Info - Server is running on port: 3030
+Thu, 06 Feb 2020 20:44:10 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Thu, 06 Feb 2020 20:47:10 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Thu, 06 Feb 2020 20:47:44 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Thu, 06 Feb 2020 20:48:21 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Thu, 06 Feb 2020 20:49:27 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Thu, 06 Feb 2020 20:58:50 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Thu, 06 Feb 2020 21:52:40 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Thu, 06 Feb 2020 22:07:31 GMT - Info - Server is running on port: 3030
+Fri, 07 Feb 2020 11:56:30 GMT - Info - Server is running on port: 3030
+Fri, 07 Feb 2020 11:56:36 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Fri, 07 Feb 2020 12:11:10 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Fri, 07 Feb 2020 12:12:41 GMT - Info - Server is running on port: 3030
+Fri, 07 Feb 2020 12:14:24 GMT - Info - Server is running on port: 3030
+Fri, 07 Feb 2020 12:15:12 GMT - Info - Server is running on port: 3030
+Fri, 07 Feb 2020 12:25:41 GMT - Info - Server is running on port: 3030
+Fri, 07 Feb 2020 12:25:42 GMT - Info - Server is running on port: 3030
+Fri, 07 Feb 2020 12:26:59 GMT - Debug - auth.service - login with email: avivday@gmail.com
+Fri, 07 Feb 2020 13:13:35 GMT - Info - Server is running on port: 3030
+Fri, 07 Feb 2020 13:13:49 GMT - Info - Server is running on port: 3030
+Fri, 07 Feb 2020 13:25:38 GMT - Info - Server is running on port: 3030
+Fri, 07 Feb 2020 13:28:04 GMT - Info - Server is running on port: 3030
+Fri, 07 Feb 2020 13:30:11 GMT - Info - Server is running on port: 3030
+Fri, 07 Feb 2020 13:31:57 GMT - Info - Server is running on port: 3030
+Fri, 07 Feb 2020 13:32:12 GMT - Info - Server is running on port: 3030
+Fri, 07 Feb 2020 14:05:40 GMT - Info - Server is running on port: 3030
+Fri, 07 Feb 2020 14:16:52 GMT - Info - Server is running on port: 3030
+Fri, 07 Feb 2020 14:16:59 GMT - Info - Server is running on port: 3030
+Fri, 07 Feb 2020 14:19:48 GMT - Info - Server is running on port: 3030
+Fri, 07 Feb 2020 14:35:34 GMT - Info - Server is running on port: 3030
+Fri, 07 Feb 2020 14:35:39 GMT - Info - Server is running on port: 3030
+Fri, 07 Feb 2020 14:56:28 GMT - Debug - auth.service - login with email: avivday@gmail.com
+Fri, 07 Feb 2020 14:57:05 GMT - Debug - auth.service - login with email: avivday@gmail.com
+Fri, 07 Feb 2020 14:57:10 GMT - Info - Server is running on port: 3030
+Fri, 07 Feb 2020 14:58:07 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Fri, 07 Feb 2020 14:58:19 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Fri, 07 Feb 2020 14:59:12 GMT - Debug - auth.service - login with email: avivday@gmail.com
+Fri, 07 Feb 2020 14:59:18 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Fri, 07 Feb 2020 15:09:55 GMT - Debug - auth.service - login with email: avivday@gmail.com
+Fri, 07 Feb 2020 15:10:01 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Fri, 07 Feb 2020 15:12:48 GMT - Debug - auth.service - login with email: avivday@gmail.com
+Fri, 07 Feb 2020 15:12:52 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Fri, 07 Feb 2020 15:21:11 GMT - Debug - auth.service - login with email: avivday@gmail.sds
+Fri, 07 Feb 2020 15:21:34 GMT - Debug - auth.service - login with email: avivday@gmail.com
+Fri, 07 Feb 2020 15:21:42 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Fri, 07 Feb 2020 17:35:27 GMT - Info - Server is running on port: 3030
+Fri, 07 Feb 2020 18:18:45 GMT - Info - Server is running on port: 3030
+Fri, 07 Feb 2020 18:19:12 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Fri, 07 Feb 2020 18:19:49 GMT - Debug - auth.service - login with email: avivday@gmail.com
+Fri, 07 Feb 2020 18:45:06 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Fri, 07 Feb 2020 18:45:25 GMT - Debug - auth.service - login with email: avivday@gmail.com
+Fri, 07 Feb 2020 18:46:28 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Fri, 07 Feb 2020 18:47:21 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Fri, 07 Feb 2020 18:47:39 GMT - Debug - auth.service - login with email: avivday@gmail.com
+Fri, 07 Feb 2020 18:48:32 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Fri, 07 Feb 2020 18:48:41 GMT - Debug - auth.service - login with email: avivday@gmail.com
+Fri, 07 Feb 2020 18:55:09 GMT - Info - Server is running on port: 3030
+Fri, 07 Feb 2020 18:55:33 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Fri, 07 Feb 2020 18:55:46 GMT - Debug - auth.service - login with email: avivday@gmail.com
+Fri, 07 Feb 2020 19:03:57 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Fri, 07 Feb 2020 19:05:53 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Fri, 07 Feb 2020 19:06:05 GMT - Debug - auth.service - login with email: avivday@gmail.com
+Fri, 07 Feb 2020 19:08:01 GMT - Info - Server is running on port: 3030
+Fri, 07 Feb 2020 19:08:48 GMT - Info - Server is running on port: 3030
+Fri, 07 Feb 2020 19:09:05 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Fri, 07 Feb 2020 19:09:36 GMT - Info - Server is running on port: 3030
+Fri, 07 Feb 2020 19:22:12 GMT - Info - Server is running on port: 3030
+Fri, 07 Feb 2020 19:44:31 GMT - Info - Server is running on port: 3030
+Sat, 08 Feb 2020 10:06:35 GMT - Info - Server is running on port: 3030
+Sat, 08 Feb 2020 10:07:40 GMT - Info - Server is running on port: 3030
+Sat, 08 Feb 2020 10:08:16 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Sat, 08 Feb 2020 10:08:49 GMT - Debug - auth.service - login with email: avivday@gmail.com
+Sat, 08 Feb 2020 10:27:11 GMT - Info - Server is running on port: 3030
+Thu, 13 Feb 2020 09:23:15 GMT - Info - Server is running on port: 3030
+Thu, 13 Feb 2020 09:25:15 GMT - Debug - a@a, yossi, 1
+Thu, 13 Feb 2020 09:25:15 GMT - Debug - auth.service - signup with email: a@a, username: yossi
+Thu, 13 Feb 2020 09:25:16 GMT - Debug - auth.route - new account created: {"email":"a@a","password":"$2b$10$5hh31/H2TySj8WGjQIncOOl6jwBLkPmIlw6eEY7lRRuJvurgWVcSG","username":"yossi","lastLogin":[1581585916026],"wins":[],"loses":[],"_id":"5e4515fcc6acfd3e14a7075d"}
+Thu, 13 Feb 2020 09:25:16 GMT - Debug - auth.service - login with email: a@a
+Thu, 13 Feb 2020 09:25:21 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Thu, 13 Feb 2020 09:34:18 GMT - Debug - auth.service - login with email: avivday@gmail.com
+Thu, 13 Feb 2020 09:35:32 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Thu, 13 Feb 2020 09:35:39 GMT - Debug - auth.service - login with email: avivday@gmail.com
+Sat, 15 Feb 2020 16:15:14 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 16:16:27 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Sat, 15 Feb 2020 16:33:38 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 16:34:52 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 16:35:01 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 16:35:34 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 16:36:41 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 16:36:49 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 16:44:00 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 16:47:16 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 16:49:07 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 16:51:32 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 16:52:17 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 16:53:08 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 16:53:51 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 16:55:02 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 16:56:02 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 16:56:24 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 16:56:52 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 17:04:10 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 17:21:04 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Sat, 15 Feb 2020 17:21:11 GMT - Debug - auth.service - login with email: avivday@gmail.com
+Sat, 15 Feb 2020 18:38:50 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Sat, 15 Feb 2020 19:01:23 GMT - Debug - auth.service - login with email: avivday@gmail.com
+Sat, 15 Feb 2020 19:07:38 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Sat, 15 Feb 2020 19:14:45 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Sat, 15 Feb 2020 19:17:53 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Sat, 15 Feb 2020 19:53:57 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 19:55:09 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 19:58:19 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 19:58:54 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Sat, 15 Feb 2020 20:09:45 GMT - Debug - b@bbb.com, Amawa, 1
+Sat, 15 Feb 2020 20:09:45 GMT - Debug - auth.service - signup with email: b@bbb.com, username: Amawa
+Sat, 15 Feb 2020 20:09:45 GMT - Debug - auth.route - new account created: {"email":"b@bbb.com","password":"$2b$10$5fvOk5UCDqdNhhtg2//bPu6WEctivGdea2jV97ShVDZSyAr7bizK6","username":"Amawa","lastLogin":[1581797385687],"wins":[],"loses":[],"_id":"5e48500945639604249194f8"}
+Sat, 15 Feb 2020 20:09:45 GMT - Debug - auth.service - login with email: b@bbb.com
+Sat, 15 Feb 2020 20:10:58 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 20:11:00 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 20:11:29 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 20:18:27 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 20:19:35 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Sat, 15 Feb 2020 20:20:13 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 20:20:24 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 20:21:18 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 20:21:42 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 20:22:00 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 20:22:20 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 20:23:21 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 20:23:26 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 20:23:45 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 20:25:09 GMT - Info - Server is running on port: 3030
+Sat, 15 Feb 2020 20:26:24 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Sat, 15 Feb 2020 20:30:57 GMT - Debug - auth.service - login with email: b@bbb.com
+Sat, 15 Feb 2020 20:31:14 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Sat, 15 Feb 2020 20:31:37 GMT - Debug - auth.service - login with email: b@bbb.com
+Sat, 15 Feb 2020 20:35:08 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Sat, 15 Feb 2020 20:38:30 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Sat, 15 Feb 2020 20:38:51 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Sat, 15 Feb 2020 20:41:11 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Sat, 15 Feb 2020 20:42:09 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Sat, 15 Feb 2020 20:43:12 GMT - Debug - auth.service - login with email: alondai1@gmail.com
+Sat, 15 Feb 2020 20:50:10 GMT - Info - Server is running on port: 3030
