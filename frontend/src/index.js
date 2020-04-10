@@ -11,9 +11,9 @@ import Store from './store';
 
 ReactDOM.render(
   <Provider store={Store}>
-    <Iphone>
-      <App />
-    </Iphone>
+
+    <App />
+
   </Provider>,
   document.getElementById('root')
 )

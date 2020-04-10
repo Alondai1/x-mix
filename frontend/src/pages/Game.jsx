@@ -8,6 +8,8 @@ import Snackbar from '@material-ui/core/Snackbar';
 import { Link } from 'react-router-dom'
 import { useEffect } from 'react'
 import { useState } from 'react'
+import Logo from '../assets/logo.png'
+
 
 
 
@@ -93,7 +95,7 @@ const Game = ({loggedInUser, updateUser}) => {
     return (
         <div className="game-page">
             <Link to="/">
-                <h1>back</h1>
+            <img className="logo" src={Logo} alt="logo" />
             </Link>
             <div className="game-container">
 

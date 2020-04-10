@@ -10,8 +10,11 @@ export default {
     update
 }
 
-function getUsers() {
-    return HttpService.get('user')
+function getUsers(filterBy) {
+    let criteria = '';
+    if (filterBy.top) criteria = `top=${filterBy.top}`
+    
+    return HttpService.get('user?' + criteria)
 }
 
 function getById(userId) {

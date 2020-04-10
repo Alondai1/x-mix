@@ -11,7 +11,7 @@ import Multi from './pages/Multi';
 
 function App() {
   return (
-    <div className="app-container"> 
+    <div className="app-container flex justify-center align-center"> 
       <Router history={history}>
         <Switch>
           <Route path="/" component={Home} exact/>

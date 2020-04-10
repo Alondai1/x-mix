@@ -7,6 +7,10 @@ import boardService from '../services/boardService'
 import { updateUser } from '../actions/UserActions'
 import Snackbar from '@material-ui/core/Snackbar';
 import PersonIcon from '@material-ui/icons/Person';
+import Logo from '../assets/logo.png'
+import {WhatsappIcon} from "react-share";
+import {WhatsappShareButton} from "react-share";
+
 
 
 
@@ -104,7 +108,7 @@ const Multi = ({ loggedInUser, updateUser }) => {
         <div className="game-page flex direction-column align-center multi-page">
 
             <Link className="back-btn" to="/">
-                <h1>back</h1>
+            <img className="logo" src={Logo} alt="logo" />
             </Link>
             {
                 (players.length && gameIsOn) ? (<div className="players flex">
@@ -163,6 +167,13 @@ const Multi = ({ loggedInUser, updateUser }) => {
                 message={msg}
 
             />
+            <WhatsappShareButton
+             className="share-icon"
+             url="http://localhost:3000/multi"
+             title="Come Play With Me!">
+
+            <WhatsappIcon round></WhatsappIcon>
+            </WhatsappShareButton>
         </div>
     )
 

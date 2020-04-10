@@ -16,7 +16,6 @@
     height: 80%;
     display: flex;
     flex-direction: column;
-    padding-top: 48px;
     align-items: center;
 
     table {
@@ -47,6 +46,11 @@
 }
 
 .multi-page {
+
+  .share-icon {
+    position: absolute;
+    bottom: 25px;
+  }
   // padding-top: 40px;
 
   .back-btn {

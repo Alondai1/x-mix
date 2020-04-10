@@ -23,7 +23,7 @@ const UserPage = ({ loggedInUser, logout }) => {
                 <ExitToAppIcon />
             </IconButton>
 
-            <div>
+            <div className="user-info">
                 <h1>Hello {loggedInUser.username}</h1>
                 {wins.length &&
                     <p>

@@ -1,5 +1,5 @@
 import UserService from '../services/UserService';
-// import { loading, doneLoading } from './SystemActions';
+import { loading, doneLoading } from './SystemActions';
 
 
 export function login(userCreds) {
@@ -39,12 +39,8 @@ export function setUser(user) {
     user
   };
 }
-// function setUsers(users) {
-//   return {
-//     type: 'SET_USERS',
-//     users
-//   };
-// }
+
+
 
 // function _removeUser(userId) {
 //   return {
@@ -68,20 +64,28 @@ export function setUser(user) {
 
 
 
-//   export function loadUsers() {
-//     return async dispatch => {
-//       try {
-//         // example for loading
-//         dispatch(loading());
-//         const users = await UserService.getUsers();
-//         console.log(users);
+  export function loadUsers(filterBy = {}) {
+    
+    return async dispatch => {
+      try {
+        dispatch(loading());
         
-//         dispatch(setUsers(users));
-//       } catch (err) {
-//         console.log('UserActions: err in loadUsers', err);
-//         // example for rerouting - after changing the store
-//       } finally {
-//         dispatch(doneLoading());
-//       }
-//     };
-//   }
+        const users = await UserService.getUsers(filterBy);
+        
+        dispatch(setUsers(users));
+      } catch (err) {
+        console.log('UserActions: err in loadUsers', err);
+        // example for rerouting - after changing the store
+      } finally {
+        dispatch(doneLoading());
+      }
+    };
+  }
+
+
+  function setUsers(users) {
+    return {
+      type: 'SET_USERS',
+      users
+    };
+  }

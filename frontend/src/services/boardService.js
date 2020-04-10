@@ -43,6 +43,11 @@ function checkForPos(board) {
                 if (!board[j][j].symbol) return { i:j, j }
             }
         }
+        else if (_checkComputerDia2Attack(board) > 1) {
+            for (let j = 0; j < board.length; j++) {
+                if (!board[j][board.length-j-1].symbol) return { i:j, j:board.length-j-1 }
+            }
+        }
 
         else if (_checkComputerRowDef(board[i]) > 1) {
             for (let j = 0; j < board.length; j++) {
@@ -59,6 +64,11 @@ function checkForPos(board) {
         else if (_checkComputerDiaDef(board,i) > 1) {
             for (let j = 0; j < board.length; j++) {
                 if (!board[j][j].symbol) return { i:j, j }
+            }
+        }
+        else if (_checkComputerDia2Def(board,i) > 1) {
+            for (let j = 0; j < board.length; j++) {
+                if (!board[j][board.length-j-1].symbol) return { i:j, j:board.length-j-1 }
             }
         }
 
@@ -82,7 +92,7 @@ function checkForPos(board) {
 
 
 function checkforWinningCells(board, posI, posJ, symbol) {
-    return _checkRow(board, posI, posJ, symbol) || _checkCol(board, posI, posJ, symbol) || _checkDia(board, posI, posJ, symbol)
+    return _checkRow(board, posI, posJ, symbol) || _checkCol(board, posI, posJ, symbol) || _checkDia(board, posI, posJ, symbol) || _checkDia2(board, posI, posJ, symbol)
 
 }
 
@@ -114,6 +124,15 @@ function _checkDia(board, posI, posJ, symbol) {
     if (res.length === 3) return res
 
 }
+function _checkDia2(board, posI, posJ, symbol) {
+    const res = []
+    for (let i = 0; i < board.length; i++) {
+        if (board[i][board.length-1-i].symbol !== symbol) return false
+        else res.push({ i, j: board.length-1-i})
+    }
+    if (res.length === 3) return res
+
+}
 
 
 function _checkComputerRowDef(cells) {
@@ -133,6 +152,25 @@ function _checkComputerRowAttack(cells) {
     return count
 }
 
+
+function _checkComputerDiaAttack(board,i) {
+    let count = 0
+    for (let j = 0; j < board.length; j++) {
+        if (board[j][j].symbol === 'O') count++
+    }
+    return count
+
+}
+function _checkComputerDia2Attack(board) {
+    let count = 0
+    for (let j = 0; j < board.length; j++) {
+        if (board[j][board.length-1-j].symbol === 'O') count++
+    }
+    return count
+
+}
+
+
 function _checkComputerColAttack(board,j) {
     let count = 0
     for (let i = 0; i < board.length; i++) {
@@ -149,18 +187,19 @@ function _checkComputerColDef(board,j) {
     return count
 }
 
-function _checkComputerDiaAttack(board,i) {
-    let count = 0
-    for (let j = 0; j < board.length; j++) {
-        if (board[j][j].symbol === 'O') count++
-    }
-    return count
 
-}
 function _checkComputerDiaDef(board,i) {
     let count = 0
     for (let j = 0; j < board.length; j++) {
         if (board[j][j].symbol === 'X') count++
+    }
+    return count
+
+}
+function _checkComputerDia2Def(board,i) {
+    let count = 0
+    for (let j = 0; j < board.length; j++) {
+        if (board[j][board.length-j-1].symbol === 'X') count++
     }
     return count
 
